@@ -1,0 +1,145 @@
+@media only screen and (max-width:786px){
+	.row{
+		flex-wrap:wrap;
+	}
+	
+	.header-col-1,.header-col-2,.header-col-3{
+		width:100%;
+	}
+	.menu{
+	flex-direction:column;
+	margin-right:175px;
+	margin-top: -35px;
+	line-height: 2;
+}	
+	.menu li{
+		margin-left: 120px;
+		text-align: center;
+}
+	.banner-wrapper{
+	border-bottom:none;
+}
+	.banner-btn-1 a{
+	margin-left: -15px;
+}
+	.banner-icon a{
+    top: 21px;
+}
+	.feature-wrapper{
+	margin-top:60px;
+}
+	.feature-box{
+	padding:0px 123px;
+}
+	.feature-list li{
+	margin-right:60px; 
+}
+	.feature-list li h1,.feature-list li p{
+		margin-left: -22px;
+       font-size: 16px;
+}
+	.about-col-1{
+	width:100%;
+}
+	.about-img{
+    width: 550px;
+    margin-left: 40px;
+}
+	.about-col-2{
+	width: 100%;
+    padding-top: 0px;
+    text-align: center;
+}
+	.service-heading{
+	width:100%;
+	margin-top:-100px;
+}
+	.service-para{
+    text-align:center;
+	margin:32px 125px;
+	margin-top:-45px;
+}
+	.service-col{
+	width:50%;
+}
+	.portfolio-col{
+	  width:33%;
+	 margin-top: -12px;
+}
+	.port-img-1{
+	width: 90%;
+    margin-left: 7px;
+    height: 234%;
+}
+	.Testmonial-heading{
+	text-align:center;
+	margin-top:55px;
+}
+	.Testmonial-para{
+	margin-top:-31px;
+}
+	.testmonial-box{
+	width: 621px;
+    height: 350px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+	.test-img{
+    margin: 45px 265px;
+}
+	.blog-text{
+	margin: -14px 56px;
+}
+	.blog-col-1,.blog-col-2,.blog-col-3{
+	width:100%;
+	text-align:center;
+}
+	.blog-box{
+	margin:0 91px;
+	margin-top:70px;
+}
+	.blog-box-2{
+	margin:0 100px;
+	margin-top:-47px;
+}
+	.box-1{
+   margin-top:40px;
+}
+	.contact-box{
+	width: 100%;
+    height: 512px;
+    margin-left: -20px;
+    margin-top: -22px;
+}
+	.contact-box-1{
+	width:100%;
+}
+	.con-btn {
+	margin-bottom: 20px;
+    padding: 16px 47px;
+    margin-left: 23px;
+}
+	.contact-box-2{
+		width:30%;
+		display:none;
+}
+	.contact-box-2:before{
+    display:none;
+}
+	.footer-col-1{
+	width:50%;
+}
+	.footer-col-2{
+	width:50%;
+    margin-left: 66px;
+    margin-top: -67px;
+}
+.iframe-contact{
+	width:100%;
+	position:absolute;
+	bottom:100;
+    left: 0;
+    width: 100%;
+    height:500px;
+}
+}
